@@ -1513,7 +1513,7 @@ input::placeholder {
   z-index: -999;
   width: 100%;
   height: 100%;
-  background: url(https://pic-bed-dam.pages.dev/background/light_mode.webp);
+  background: url(https://picbed.candy0014.icu/background/light_mode.webp);
   background-attachment: local;
   background-position: center;
   background-size: cover;
@@ -5504,7 +5504,7 @@ mjx-assistive-mml {
   }
 }
 [data-theme="dark"] #web_bg {
-  background: url(https://pic-bed-dam.pages.dev/background/dark_mode.webp);
+  background: url(https://picbed.candy0014.icu/background/dark_mode.webp);
   background-attachment: local;
   background-position: center;
   background-size: cover;
@@ -5512,14 +5512,14 @@ mjx-assistive-mml {
 }
 @media screen and (max-width: 800px) {
   #web_bg {
-    background: url(https://pic-bed-dam.pages.dev/background/light_mode.webp) !important;
+    background: url(https://picbed.candy0014.icu/background/light_mode.webp) !important;
     background-attachment: local !important;
     background-position: center !important;
     background-size: cover !important;
     background-repeat: no-repeat !important;
   }
   [data-theme="dark"] #web_bg {
-    background: url(https://pic-bed-dam.pages.dev/background/dark_mode.webp) !important;
+    background: url(https://picbed.candy0014.icu/background/dark_mode.webp) !important;
     background-attachment: local !important;
     background-position: center !important;
     background-size: cover !important;
