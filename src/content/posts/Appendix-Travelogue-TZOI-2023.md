@@ -5,7 +5,7 @@ description: ' '
 series: 'Appendix'
 ---
 
-**[TZOI 2023 游记（初中组）](https://www.candy0014.icu/2023/08/02/TZOI-2023-%E6%B8%B8%E8%AE%B0%EF%BC%88%E5%88%9D%E4%B8%AD%E7%BB%84%EF%BC%89/)**
+**[TZOI 2023 游记（初中组）](/posts/travelogue-tzoi-2023)**
 
 ## T1
 

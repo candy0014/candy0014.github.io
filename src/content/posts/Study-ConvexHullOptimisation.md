@@ -54,7 +54,7 @@ $$\large b=\min_{j\in[0,i)}\{y_j-k\times x_j\}$$
 
 那么我们把所有 $j$ 对应的点 $P_j(x_j,y_j)$ 描出来，如下图就是一种 $i=5$ 时的情况：
 
-![1.png](https://picbed.candy0014.icu/posts/斜率优化-DP-学习笔记/pic1.png)
+![1.png](https://picbed.candy0014.icu/posts/Study-ConvexHullOptimisation/pic1.png)
 
 注意，由于 $x$ 的单调递增，每个点是从左往右排的。
 

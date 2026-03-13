@@ -13,13 +13,13 @@ series: 'Travelogue'
 
 同时，她也是一个将自然美景，人文特色，旅游放松完美融合的一个人间仙境。
 
-![1.jpg](https://picbed.candy0014.icu/posts/2023-07-千岛湖环湖骑行游记/pic1.jpg)
+![1.jpg](https://picbed.candy0014.icu/posts/Travelogue-Cycling-QianDaoLake-2023/pic1.jpg)
 
 千岛湖西南湖区，也是主湖区，环线共 $140 \text{km}$，被誉为**骑行天堂**。
 
 在这里，欣赏到翠岛峰峦，山水相映的美景的同时，周围的连绵不断的丘陵也给骑行带来了极大的挑战性。环线高低起伏，总爬升达到了 $704 \text{m}$，不乏有几个连着的长上坡。虽然听着困难，但这更激起了我去千岛湖骑行的心。
 
-![2.jpg](https://picbed.candy0014.icu/posts/2023-07-千岛湖环湖骑行游记/pic2.jpg)
+![2.jpg](https://picbed.candy0014.icu/posts/Travelogue-Cycling-QianDaoLake-2023/pic2.jpg)
 
 ## 2023-06-30 (DAY -1)
 
@@ -29,7 +29,7 @@ series: 'Travelogue'
 
 早晨起来，虽然因为下雨推迟了几个小时的骑行，但也给了我们足够的时间欣赏千岛湖的美景。
 
-![3.jpg](https://picbed.candy0014.icu/posts/2023-07-千岛湖环湖骑行游记/pic3.jpg)
+![3.jpg](https://picbed.candy0014.icu/posts/Travelogue-Cycling-QianDaoLake-2023/pic3.jpg)
 
 虽说当时还在下雨，但清晨的千岛湖仍有一番别样的韵味。
 
@@ -37,15 +37,15 @@ series: 'Travelogue'
 
 早上十一点，我和 XMY 正式从秀水广场出发。没过多长时间，就到了千岛湖淳杨线绿道的起点。
 
-![4.jpg](https://picbed.candy0014.icu/posts/2023-07-千岛湖环湖骑行游记/pic4.jpg)
+![4.jpg](https://picbed.candy0014.icu/posts/Travelogue-Cycling-QianDaoLake-2023/pic4.jpg)
 
 淳杨线开始时大多是在小树林中穿梭，绿道一边绿树成荫，延伸到前方不远处的转角，另一边可以看到千岛湖的一角，水中的小岛甚是可爱，美不胜收。离湖畔近时，可以隐约听见波涛轻轻拍打湖岸的声音，规律而不单调，为骑行减小了许多压力。
 
-![5.jpg](https://picbed.candy0014.icu/posts/2023-07-千岛湖环湖骑行游记/pic5.jpg)
+![5.jpg](https://picbed.candy0014.icu/posts/Travelogue-Cycling-QianDaoLake-2023/pic5.jpg)
 
 吃过中饭，迎接我们的就是这次骑行最大的爬坡，爬升超过了 $100 \text{m}$。骑行在宽阔而又陡峭的路面上，我不敢向上看，只能咬着牙，感受汗珠带着热量从下巴上滴落。实在感觉踩不动踏板了，就换个低一点的挡继续踩，不能停下。就算偶尔休息半分钟，也不能休息太久，否则听 XMY 说的，大腿内乳酸堆积，待会儿骑起来更累。
 
-![6.jpg](https://picbed.candy0014.icu/posts/2023-07-千岛湖环湖骑行游记/pic6.jpg)
+![6.jpg](https://picbed.candy0014.icu/posts/Travelogue-Cycling-QianDaoLake-2023/pic6.jpg)
 
 幸好在最长上坡的背后，就是最长的下坡。没几秒钟，就已经从最低的挡换到了最高的，轻轻蹬几下，给车一个初速度，它就越冲越快，瞄了一眼手机，速度更是达到了不敢想象的 $53 \text{km/h}$。我忍不住丢掉车把，张开双臂，感受着耳边呼啸的风声。正所谓「上坡有多“爽”，下坡就有多爽」。
 
@@ -57,13 +57,13 @@ series: 'Travelogue'
 
 在又一次经历长爬坡后，我们到达了竹里村观景台。这里是第二天骑行的制高点，在观景台上往下看，千岛湖的美景尽收眼底。
 
-![7.jpg](https://picbed.candy0014.icu/posts/2023-07-千岛湖环湖骑行游记/pic7.jpg)
+![7.jpg](https://picbed.candy0014.icu/posts/Travelogue-Cycling-QianDaoLake-2023/pic7.jpg)
 
-![8.jpg](https://picbed.candy0014.icu/posts/2023-07-千岛湖环湖骑行游记/pic8.jpg)
+![8.jpg](https://picbed.candy0014.icu/posts/Travelogue-Cycling-QianDaoLake-2023/pic8.jpg)
 
 下了山，刚好发现亚运会的自行车场馆就在附近，便一起去里面逛了一圈。这才想起之前遇到的一列车队，一看就都是顶级的车，骑得飞快，估计就是为了亚运会来千岛湖拉练的。
 
-![9.gif](https://picbed.candy0014.icu/posts/2023-07-千岛湖环湖骑行游记/pic9.gif)
+![9.gif](https://picbed.candy0014.icu/posts/Travelogue-Cycling-QianDaoLake-2023/pic9.gif)
 
 又是一天的劳累后，我们又回到了当时出发的秀水广场。
 

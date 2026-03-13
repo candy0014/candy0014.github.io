@@ -6,7 +6,7 @@ series: 'Travelogue'
 ---
 
 :::note
-- 2024-11-12: 由[原游记](https://www.candy0014.icu/2024/10/08/CSP-S-2024-%E6%B8%B8%E8%AE%B0/)迁移至此
+- 2024-11-12: 由[原游记](/posts/travelogue-csps-2024)迁移至此
 :::
 
 把前后好多天的东西都写进去了，批话很多。嫌烦可以直接点目录。

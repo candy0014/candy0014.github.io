@@ -20,7 +20,7 @@ tags: ['贪心']
 
 学过哈夫曼编码的同学应该知道，这题等价于：构造一颗二叉树，使得它有 $n$ 个叶子，并且每个叶子的深度（从 0 开始）为 $len_1$ 到 $len_n$。
 
-![1.png](https://picbed.candy0014.icu/posts/CF37C-Old-Berland-Language-题解/pic1.png)
+![1.png](https://picbed.candy0014.icu/posts/Solution-CF37C/pic1.png)
 
 如图（样例1），若将除了叶节点的每个节点，左儿子标上 0，右儿子标上 1，则从根到每个叶结点的路径上经过的数连起来，就是这个叶节点对应的字符串。
 

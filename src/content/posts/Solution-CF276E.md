@@ -26,17 +26,17 @@ tags: ['数据结构','树状数组']
 
 题意看着挺含蓄，什么节点度数不超过 $2$，就是 $1$ 号节点下面挂了一堆链，如下图为样例 $2$ 的图。
 
-![1.png](https://picbed.candy0014.icu/posts/CF276E-Little-Girl-and-Problem-on-Trees-题解/pic1.png)
+![1.png](https://picbed.candy0014.icu/posts/Solution-CF276E/pic1.png)
 
 我们不妨将它横着画出来。
 
-![2.png](https://picbed.candy0014.icu/posts/CF276E-Little-Girl-and-Problem-on-Trees-题解/pic2.png)
+![2.png](https://picbed.candy0014.icu/posts/Solution-CF276E/pic2.png)
 
 考虑第一种操作即修改操作如何维护。
 
 例如我们要将样例 $2$ 中，将离 $5$ 节点 $3$ 单位以内的节点点权加上 $1$，那么我们要修改的部分分为以下蓝、紫、绿 $3$ 个区域。
 
-![3.png](https://picbed.candy0014.icu/posts/CF276E-Little-Girl-and-Problem-on-Trees-题解/pic3.png)
+![3.png](https://picbed.candy0014.icu/posts/Solution-CF276E/pic3.png)
 
 其中蓝色部分，即 $1$ 号节点部分，单独开一个变量保存即可。而绿色区域，即位于自身那条链内的部分，可以对每条链开一个树状数组来实现。
 

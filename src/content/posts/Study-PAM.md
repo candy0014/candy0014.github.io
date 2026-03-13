@@ -1,5 +1,5 @@
 ---
-title: '回文树（PAM）的学习笔记'
+title: 'Study-PAM'
 published: 2023-08-18
 description: ' '
 series: 'Study'
@@ -32,7 +32,7 @@ tags: ['字符串','回文树']
 
 但这样有个小问题，就是奇偶长度回文串的折半方式并不一样。既然一颗树存储不了，那就开两棵树啊。
 
-![1.png](https://picbed.candy0014.icu/posts/回文树（PAM）的学习笔记/pic1.png)
+![1.png](https://picbed.candy0014.icu/posts/Study-PAM/pic1.png)
 
 如上图：
 
@@ -60,11 +60,11 @@ tags: ['字符串','回文树']
 
 证明很简单，可以使用反证法。
 
-![2.png](https://picbed.candy0014.icu/posts/回文树（PAM）的学习笔记/pic2.png)
+![2.png](https://picbed.candy0014.icu/posts/Study-PAM/pic2.png)
 
 设增加的字母为 $S_i$，且以 $S_i$ 为结尾的新增回文子串至少有两个。
 
-![3.png](https://picbed.candy0014.icu/posts/回文树（PAM）的学习笔记/pic3.png)
+![3.png](https://picbed.candy0014.icu/posts/Study-PAM/pic3.png)
 
 那么根据回文串的性质，「回文串2」在通过「回文串1」中线对称后的「回文串3」和「回文串2」完全相同，也就是说「回文串2」在插入 $S_i$ 之前就已经存在了。
 
@@ -72,7 +72,7 @@ tags: ['字符串','回文树']
 
 假设我们现在在插入 $S_i$，容易发现，在以 $i$ 为结尾的每一个回文串中，只有最长的那个才有可能成为新增回文串。
 
-![4.png](https://picbed.candy0014.icu/posts/回文树（PAM）的学习笔记/pic4.png)
+![4.png](https://picbed.candy0014.icu/posts/Study-PAM/pic4.png)
 
 显然，这个「以 $i$ 结尾的最长回文串」是在「以 $i-1$ 结尾的某个回文串」的两边各增加一个相同的字符得到的（图中红色线段为相同字符）。即，我们需要找到「以 $i-1$ 结尾的最长回文串」满足这个回文串的左右两个字符是相同的，我们暂且将这种字符串称为“可拓展的”。
 
@@ -90,7 +90,7 @@ tags: ['字符串','回文树']
 
 举个栗子：假如我们要插入 $S=\texttt{ABBAB}$ 中的第 $4$ 个字符 $\texttt{A}$，那么我们已经建好了 $S$ 前 $3$ 个字符构成的回文树。
 
-![5.png](https://picbed.candy0014.icu/posts/回文树（PAM）的学习笔记/pic5.png)
+![5.png](https://picbed.candy0014.icu/posts/Study-PAM/pic5.png)
 
 此时要插入的 $S_i=S_4$，以 $S_{i-1}=S_3$ 为结尾的「最长回文子串」是 $\texttt{BB}$，长度 $len=2$，所以 $last=4$。
 
@@ -108,7 +108,7 @@ tags: ['字符串','回文树']
 
 再举个栗子：假如我们要插入 $S=\texttt{ABBAB}$ 中的第 $5$ 个字符 $\texttt{B}$，那么我们已经建好了 $S$ 前 $4$ 个字符构成的回文树。
 
-![6.png](https://picbed.candy0014.icu/posts/回文树（PAM）的学习笔记/pic6.png)
+![6.png](https://picbed.candy0014.icu/posts/Study-PAM/pic6.png)
 
 此时要插入的 $S_i=S_5$，以 $S_{i-1}=S_4$ 为结尾的「最长回文子串」是 $\texttt{ABBA}$，长度 $len=4$，所以 $last=5$。
 
@@ -124,7 +124,7 @@ tags: ['字符串','回文树']
 
 这个过程和找可以拓展的「最长回文后缀」是非常相近的，只不过找「最长回文后缀」时，是从 $tr_{last}$ 开始后缀链跳跃，而找 $tr_j$ 的 $fail$ 指针时，是从 $fail_{fa(tr_j)}$ 开始进行后缀链跳跃。
 
-![7.png](https://picbed.candy0014.icu/posts/回文树（PAM）的学习笔记/pic7.png)
+![7.png](https://picbed.candy0014.icu/posts/Study-PAM/pic7.png)
 
 如图，我们要找的就是「$v$ 的最长回文后缀」，而「$v$ 的最长回文后缀」就是又「$u$ 的某个回文后缀」的两边加上两个一样的字符得到的。
 
@@ -140,13 +140,13 @@ tags: ['字符串','回文树']
 
 最后，让我们把插入 $S=\texttt{ABBAB}$ 的全过程模拟一遍。
 
-![8.png](https://picbed.candy0014.icu/posts/回文树（PAM）的学习笔记/pic8.png)
+![8.png](https://picbed.candy0014.icu/posts/Study-PAM/pic8.png)
 
 - 初始状态：只有 $tr_1$ 和 $tr_0$，$len$ 值分别为 $-1$ 和 $0$，$fail$ 指针分别指向 $0$ 和 $1$。
 
 ---
 
-![9.png](https://picbed.candy0014.icu/posts/回文树（PAM）的学习笔记/pic9.png)
+![9.png](https://picbed.candy0014.icu/posts/Study-PAM/pic9.png)
 
 - 插入 $S=\texttt{ABBAB}$ 中的第 $1$ 个字符 $\texttt{A}$，并且此时 $last$ 指向 $1$。
 
@@ -158,7 +158,7 @@ tags: ['字符串','回文树']
 
 ---
 
-![10.png](https://picbed.candy0014.icu/posts/回文树（PAM）的学习笔记/pic10.png)
+![10.png](https://picbed.candy0014.icu/posts/Study-PAM/pic10.png)
 
 - 插入 $S=\texttt{ABBAB}$ 中的第 $2$ 个字符 $\texttt{B}$，那么我们已经建好了 $S$ 前 $1$ 个字符构成的回文树，并且此时 $last$ 指向 $2$。
 
@@ -172,7 +172,7 @@ tags: ['字符串','回文树']
 
 ---
 
-![11.png](https://picbed.candy0014.icu/posts/回文树（PAM）的学习笔记/pic11.png)
+![11.png](https://picbed.candy0014.icu/posts/Study-PAM/pic11.png)
 
 - 插入 $S=\texttt{ABBAB}$ 中的第 $3$ 个字符 $\texttt{B}$，那么我们已经建好了 $S$ 前 $2$ 个字符构成的回文树，并且此时 $last$ 指向 $3$。
 - 此时 ${S_{i-len_3-1}=S_{3-1-1}=S_1=\texttt{A} \neq S_3=S_i}$，所以接着判断 $fail_3$ 指向的 $tr_0$。
@@ -185,7 +185,7 @@ tags: ['字符串','回文树']
 
 ---
 
-![12.png](https://picbed.candy0014.icu/posts/回文树（PAM）的学习笔记/pic12.png)
+![12.png](https://picbed.candy0014.icu/posts/Study-PAM/pic12.png)
 
 - 插入 $S=\texttt{ABBAB}$ 中的第 $4$ 个字符 $\texttt{A}$，那么我们已经建好了 $S$ 前 $3$ 个字符构成的回文树，并且此时 $last$ 指向 $4$。
 
@@ -200,7 +200,7 @@ tags: ['字符串','回文树']
 
 ---
 
-![13.png](https://picbed.candy0014.icu/posts/回文树（PAM）的学习笔记/pic13.png)
+![13.png](https://picbed.candy0014.icu/posts/Study-PAM/pic13.png)
 
 - 插入 $S=\texttt{ABBAB}$ 中的第 $5$ 个字符 $\texttt{B}$，那么我们已经建好了 $S$ 前 $4$ 个字符构成的回文树，并且此时 $last$ 指向 $5$。
 

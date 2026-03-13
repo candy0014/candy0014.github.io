@@ -6,7 +6,7 @@ series: 'Travelogue'
 ---
 
 :::note
-- 2024-11-12: 因【数据删除】迁至[游记完整版](https://www.candy0014.icu/2024/10/08/CSP-S-2024-%E6%B8%B8%E8%AE%B0%EF%BC%88%E5%AE%8C%E6%95%B4%E7%89%88%EF%BC%89/)
+- 2024-11-12: 因【数据删除】迁至[游记完整版](/posts/travelogue-ex-csps-2024)
 :::
 
 **【数据删除】**
