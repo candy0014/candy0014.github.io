@@ -1,0 +1,92 @@
+---
+title: '百度之星 2023 题目'
+published: 2024-01-15
+description: ' '
+series: 'Appendix'
+---
+
+**[百度之星 2023 游记](https://www.candy0014.icu/2023/12/28/%E7%99%BE%E5%BA%A6%E4%B9%8B%E6%98%9F-2023-%E6%B8%B8%E8%AE%B0/)**
+
+## 初赛
+
+### T1
+
+![1.png](https://picbed.candy0014.icu/posts/百度之星-2023-题目/pic1.png)
+
+### T2
+
+![2.png](https://picbed.candy0014.icu/posts/百度之星-2023-题目/pic2.png)
+
+### T3
+
+![3.png](https://picbed.candy0014.icu/posts/百度之星-2023-题目/pic3.png)
+
+### T4
+
+![4.png](https://picbed.candy0014.icu/posts/百度之星-2023-题目/pic4.png)
+
+### T5
+
+![5.png](https://picbed.candy0014.icu/posts/百度之星-2023-题目/pic5.png)
+
+### T6
+
+![6.png](https://picbed.candy0014.icu/posts/百度之星-2023-题目/pic6.png)
+
+### T7
+
+![7.png](https://picbed.candy0014.icu/posts/百度之星-2023-题目/pic7.png)
+
+### T8
+
+![8.png](https://picbed.candy0014.icu/posts/百度之星-2023-题目/pic8.png)
+
+## 决赛
+
+### T1
+
+![9.png](https://picbed.candy0014.icu/posts/百度之星-2023-题目/pic9.png)
+
+### T2
+
+![10.png](https://picbed.candy0014.icu/posts/百度之星-2023-题目/pic10.png)
+
+### T3
+
+![11.png](https://picbed.candy0014.icu/posts/百度之星-2023-题目/pic11.png)
+
+### T4
+
+![12.png](https://picbed.candy0014.icu/posts/百度之星-2023-题目/pic12.png)
+
+### T5
+
+![13.png](https://picbed.candy0014.icu/posts/百度之星-2023-题目/pic13.png)
+
+### T6
+
+![14.png](https://picbed.candy0014.icu/posts/百度之星-2023-题目/pic14.png)
+
+### T7
+
+![15.png](https://picbed.candy0014.icu/posts/百度之星-2023-题目/pic15.png)
+
+### T8
+
+![16.png](https://picbed.candy0014.icu/posts/百度之星-2023-题目/pic16.png)
+
+### T9
+
+![17.png](https://picbed.candy0014.icu/posts/百度之星-2023-题目/pic17.png)
+
+### T10
+
+![18.png](https://picbed.candy0014.icu/posts/百度之星-2023-题目/pic18.png)
+
+### T11
+
+![19.png](https://picbed.candy0014.icu/posts/百度之星-2023-题目/pic19.png)
+
+### T12
+
+![20.png](https://picbed.candy0014.icu/posts/百度之星-2023-题目/pic20.png)

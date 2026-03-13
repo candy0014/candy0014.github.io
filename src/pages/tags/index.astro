@@ -1,0 +1,23 @@
+---
+import Layout from '~/layouts/Layout.astro'
+import { getSortedPosts } from '~/utils'
+import TagsSection from '~/components/TagsSection.astro'
+import BlockHeader from '~/components/BlockHeader.astro'
+
+const sortedPosts = await getSortedPosts()
+
+const postsHaveTags = sortedPosts.some(
+  (post) => post.data.tags && post.data.tags.length > 0
+)
+---
+
+<Layout>
+  {
+    postsHaveTags && (
+      <section>
+        <BlockHeader>Tags</BlockHeader>
+        <TagsSection posts={sortedPosts} />
+      </section>
+    )
+  }
+</Layout>

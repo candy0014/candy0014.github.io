@@ -1,0 +1,23 @@
+---
+import Layout from '~/layouts/Layout.astro'
+import { getSortedPosts } from '~/utils'
+import BlockHeader from '~/components/BlockHeader.astro'
+import SeriesSection from '~/components/SeriesSection.astro'
+
+const sortedPosts = await getSortedPosts()
+
+const postsHaveSeries = sortedPosts.some(
+  (post) => post.data.series
+)
+---
+
+<Layout>
+  {
+    postsHaveSeries && (
+      <section>
+        <BlockHeader>Series</BlockHeader>
+        <SeriesSection posts={sortedPosts} />
+      </section>
+    )
+  }
+</Layout>
