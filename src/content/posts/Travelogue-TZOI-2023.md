@@ -23,7 +23,7 @@ series: 'Travelogue'
 
 今天考复赛！
 
-**[2023-06-03 台州信息学初中组复赛题目](/posts/appendix-travelogue-tzoi-2023)**
+**[2023-06-03 台州信息学初中组复赛题目](https://candy0014.icu/posts/appendix-travelogue-tzoi-2023)**
 
 早上再次早起去学校，包车去考场。和巨佬们聊了会天，猜解压密码 `tzoi2023`。监考老师好凶，在外面训大声讲话的训了半天。
 
